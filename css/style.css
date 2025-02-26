@@ -82,8 +82,8 @@ a{
     margin-top: 50px;
 }
 
-.mt-180{
-    margin-top: 180px;
+.my-180{
+    margin: 180px 0;
 }
 /* Padding */
 .p-30{
@@ -232,7 +232,7 @@ header ul{
     width: 20%;
 }
 
-#find-partner img{
+#find-partner img, #operations img{
     width: 100%;
 }
 
