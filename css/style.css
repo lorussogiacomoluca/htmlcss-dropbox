@@ -11,6 +11,11 @@
     margin: 0 auto;
 }
 
+.container-sm {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
 /* Utility */
 a{
     text-decoration: none;
@@ -24,15 +29,42 @@ a{
 .shadow-bottom{
     box-shadow: 0 8px 6px -6px black;
 }
+
+.font-size-50{
+    font-size: 50px;
+}
+
+.font-size-18{
+    font-size: 18px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+
 /* Backgrounds */
 .bg-lightblue{
     background-color: #B4D0E6;
 }
 /* Margins */
-
+.mb-20{
+    margin-bottom: 20px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
 /* Padding */
 .p-30{
     padding: 30px;
+}
+
+.py-50{
+    padding: 50px 0;
+}
+
+.pt-70{
+    padding-top: 70px;
 }
 /* Columns */
 .col-30{
@@ -79,6 +111,13 @@ a{
 /* Z-Index */
 
 /* Position */
+.relative{
+    position: relative;
+}
+
+.top-70{
+    top: 70px
+}
 
 /* Display */
 
