@@ -66,6 +66,10 @@ a{
 .bg-black{
     background-color: #000;
 }
+
+.bg-white{
+    background-color: white;
+}
 /* Margins */
 .mb-10{
     margin-bottom: 10px;
@@ -210,6 +214,9 @@ a{
     flex-wrap: wrap;
 }
 /* Z-Index */
+.z-index1{
+    z-index: 1;
+}
 
 /* Position */
 .relative{
@@ -218,6 +225,14 @@ a{
 
 .top-70{
     top: 70px
+}
+
+.fixed{
+    position: fixed;
+}
+
+.widthfull{
+    width: 100%;
 }
 
 /* Display */
