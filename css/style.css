@@ -1,0 +1,80 @@
+/* HTML & Containers */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Funnel Display", serif;
+}
+
+.container {
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+/* Utility */
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.bored{
+    border: 2px solid red;
+}
+
+.shadow-bottom{
+    box-shadow: 0 8px 6px -6px black;
+}
+/* Backgrounds */
+
+/* Margins */
+
+/* Padding */
+.p-30{
+    padding: 30px;
+}
+/* Columns */
+.col-50{
+    max-width: 50%;
+}
+/* Buttons */
+.btn{
+    color: #fff;
+    background-color: #0061FE;
+    padding: 10px 15px;
+}
+
+/* Flexbox */
+.d-flex{
+    display: flex;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.gap-c30{
+    column-gap: 30px;
+}
+
+.baseline{
+    align-items: baseline;
+}
+
+.align-center{
+    align-items: center;
+}
+/* Z-Index */
+
+/* Position */
+
+/* Display */
+
+/* Section: HEADER */
+header ul{
+    list-style: none;
+}
+
+
+/* Section: MAIN */
+
+/* Section: FOOTER */
