@@ -202,4 +202,8 @@ header ul{
     color:#0061FE;
     text-decoration: underline;
 }
+
+.or-buy + hr{
+    width: 20%;
+}
 /* Section: FOOTER */
