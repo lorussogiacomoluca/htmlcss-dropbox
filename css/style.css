@@ -82,12 +82,20 @@ a{
     margin-right: 50px;
 }
 
+.mr-15{
+    margin-right: 15px;
+}
+
 .mt-50{
     margin-top: 50px;
 }
 
 .my-180{
     margin: 180px 0;
+}
+
+.my-100{
+    margin: 100px 0;
 }
 /* Padding */
 .p-30{
@@ -138,6 +146,10 @@ a{
     color: #fff;
     padding: 10px 15px;
     text-align: center;
+}
+
+.text-white{
+    color: #fff;
 }
 
 .btn-blue{
@@ -244,6 +256,11 @@ header ul{
     width: 100%;
 }
 
-.find-partner
-
 /* Section: FOOTER */
+footer ul{
+    list-style: none;
+}
+
+footer hr{
+    width: 10%;
+}
