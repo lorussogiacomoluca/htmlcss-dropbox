@@ -90,4 +90,9 @@ header ul{
 .jumbo h1{
     font-size: 80px;
 }
+
+.jumbo img{
+    width: 100%;
+}
+
 /* Section: FOOTER */
