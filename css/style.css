@@ -73,6 +73,10 @@ a{
 .mb-50{
     margin-bottom: 50px;
 }
+
+.mr-50{
+    margin-right: 50px;
+}
 /* Padding */
 .p-30{
     padding: 30px;
@@ -133,6 +137,13 @@ a{
     column-gap: 10px;
 }
 
+.gap-r40{
+    row-gap: 40px;
+}
+
+.flex-column{
+    flex-direction: column;
+}
 
 .gap-c30{
     column-gap: 30px;
