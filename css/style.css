@@ -77,6 +77,10 @@ a{
 .mr-50{
     margin-right: 50px;
 }
+
+.mt-300{
+    margin-top: 300px;
+}
 /* Padding */
 .p-30{
     padding: 30px;
@@ -205,5 +209,9 @@ header ul{
 
 .or-buy + hr{
     width: 20%;
+}
+
+#find-partner img{
+    width: 100%;
 }
 /* Section: FOOTER */
