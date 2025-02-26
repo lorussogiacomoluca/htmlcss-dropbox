@@ -7,7 +7,7 @@
 }
 
 .container {
-    max-width: 1180px;
+    max-width: 1280px;
     margin: 0 auto;
 }
 
@@ -25,7 +25,9 @@ a{
     box-shadow: 0 8px 6px -6px black;
 }
 /* Backgrounds */
-
+.bg-lightblue{
+    background-color: #B4D0E6;
+}
 /* Margins */
 
 /* Padding */
@@ -33,8 +35,19 @@ a{
     padding: 30px;
 }
 /* Columns */
+.col-30{
+    max-width: 30%;
+}
 .col-50{
     max-width: 50%;
+}
+
+.col-70{
+    max-width: 70%;
+}
+
+.full-col{
+    max-width: 100%;
 }
 /* Buttons */
 .btn{
@@ -73,8 +86,8 @@ a{
 header ul{
     list-style: none;
 }
-
-
 /* Section: MAIN */
-
+.jumbo h1{
+    font-size: 80px;
+}
 /* Section: FOOTER */
