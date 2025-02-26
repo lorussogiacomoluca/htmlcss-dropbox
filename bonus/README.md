@@ -1,21 +1,14 @@
-# Esercizio 10
+# 🎯 **Parte Bonus: Esercizio 10**
 
-# 📂 Esercizio di oggi: Dropbox
+✅ **Concludere tutti quei dettagli lasciati in sospeso** per non bloccarsi.  
 
-## 📁 Cartella/Repo
-htmlcss-dropbox
+🔗 **Aggiungere un link** alla freccia del **Jumbotron** in modo che, cliccandoci, rimandi alla sezione successiva.  
 
-## 📝 Descrizione
-Riproduciamo il layout come da screenshot (che rimane il nostro riferimento principale) cercando di essere il più fedeli possibili. Analizziamo sempre prima il layout e scriviamo dei commenti per individuare le macroaree. Facciamo un passo alla volta e puntiamo alla semplicità.
+✔️ **Nella sezione dei piani tariffari**:  
+   - Usare delle vere ✅ **checkbox**  
+   - Fare in modo che **solo una** sia selezionabile  
 
-## 💡 Consigli
-Teniamo sempre un approccio ordinato, solo quando tutto funziona passiamo al dettaglio, sezione per sezione. Cerchiamo però di bilanciare questo, organizzando il nostro tempo di sviluppo non incartandoci sulla singola feature, ma lasciando per dopo semmai i dettagli più complessi se è il caso.
+📌 **Aggiungere delle dropdown** sulle voci di **menù principale**.  
 
-Creiamo delle classi riutilizzabili individuando gli elementi ricorrenti nel layout, capendo quindi come e cosa possiamo centralizzare per rendere il nostro codice il più possibile semplice, pulito e quindi mantenibile.
-
-Non lavoriamo ancora sul responsive, quindi la nostra pagina non deve adattarsi a tutti i possibili viewport. Se comunque riusciamo almeno a lavorare già un pò con unità relative, senza però crearci nuove difficoltà, tanto meglio.
-
-## 🔄 Numero minimo di push
-17
-
-🚀 Buon lavoro!
+🌍 **Ipotizzare una seconda pagina del sito**:  
+   - Puoi anche prendere ispirazione dal loro sito.
