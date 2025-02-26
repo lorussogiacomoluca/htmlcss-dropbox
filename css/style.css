@@ -62,6 +62,10 @@ a{
 .bg-lightblue{
     background-color: #B4D0E6;
 }
+
+.bg-black{
+    background-color: #000;
+}
 /* Margins */
 .mb-10{
     margin-bottom: 10px;
@@ -227,12 +231,12 @@ header ul{
     border-bottom: 1px solid rgb(163, 163, 163);
 }
 
-.or-buy a{
+.text-link a{
     color:#0061FE;
     text-decoration: underline;
 }
 
-.or-buy + hr{
+.text-link + hr{
     width: 20%;
 }
 
