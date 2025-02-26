@@ -279,3 +279,20 @@ footer ul{
 footer hr{
     width: 10%;
 }
+
+/* BONUS */
+.transition{
+    transition: all 1s ease;
+}
+
+.jumbo i:hover{
+    color: #0061FE;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.anchor{
+    scroll-margin-top: 100px;
+}
