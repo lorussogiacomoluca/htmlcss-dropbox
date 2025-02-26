@@ -63,6 +63,10 @@ a{
     background-color: #B4D0E6;
 }
 /* Margins */
+.mb-10{
+    margin-bottom: 10px;
+}
+
 .mb-20{
     margin-bottom: 20px;
 }
