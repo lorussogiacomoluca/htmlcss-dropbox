@@ -1,0 +1,281 @@
+/* HTML & Containers */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Funnel Display", serif;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.container-sm {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+/* Utility */
+.h-1000{
+    height: 1000px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.bored{
+    border: 2px solid red;
+}
+
+.shadow-bottom{
+    box-shadow: 0 8px 6px -6px black;
+}
+
+.font-size-18{
+    font-size: 18px;
+}
+
+.font-size-28{
+    font-size: 28px;
+}
+
+.font-size-50{
+    font-size: 50px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-grey{
+    color: #A3A3A3
+}
+
+.font-weight-600{
+    font-weight: 600;
+}
+
+/* Backgrounds */
+.bg-lightblue{
+    background-color: #B4D0E6;
+}
+
+.bg-black{
+    background-color: #000;
+}
+
+.bg-white{
+    background-color: white;
+}
+/* Margins */
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.mb-20{
+    margin-bottom: 20px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.mr-50{
+    margin-right: 50px;
+}
+
+.mr-15{
+    margin-right: 15px;
+}
+
+.mt-50{
+    margin-top: 50px;
+}
+
+.my-180{
+    margin: 180px 0;
+}
+
+.my-100{
+    margin: 100px 0;
+}
+/* Padding */
+.p-30{
+    padding: 30px;
+}
+
+.py-10{
+    padding: 10px 0;
+}
+
+.py-50{
+    padding: 50px 0;
+}
+
+.py-70{
+    padding: 70px 0;
+}
+
+.pt-70{
+    padding-top: 70px;
+}
+/* Columns */
+.col-30{
+    max-width: 30%;
+}
+
+.col-40{
+    max-width: 40%;
+}
+
+.col-50{
+    max-width: 50%;
+}
+
+.col-60{
+    max-width: 60%;
+}
+
+.col-70{
+    max-width: 70%;
+}
+
+.full-col{
+    max-width: 100%;
+}
+/* Buttons */
+.btn{
+    color: #fff;
+    padding: 10px 15px;
+    text-align: center;
+}
+
+.text-white{
+    color: #fff;
+}
+
+.btn-blue{
+    background-color: #0061FE;
+}
+
+.btn-white{
+    color: #000;
+    border: 1px solid #000;
+}
+
+/* Flexbox */
+.d-flex{
+    display: flex;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.gap-c10{
+    column-gap: 10px;
+}
+
+.gap-r40{
+    row-gap: 40px;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+.gap-c30{
+    column-gap: 30px;
+}
+
+.baseline{
+    align-items: baseline;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.align-start{
+    align-items: flex-start;
+}
+
+.flex-1{
+    flex: 1;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+/* Z-Index */
+.z-index1{
+    z-index: 1;
+}
+
+/* Position */
+.relative{
+    position: relative;
+}
+
+.top-70{
+    top: 70px
+}
+
+.fixed{
+    position: fixed;
+}
+
+.widthfull{
+    width: 100%;
+}
+
+/* Display */
+
+/* Section: HEADER */
+header ul{
+    list-style: none;
+}
+/* Section: MAIN */
+.jumbo h1{
+    font-size: 80px;
+}
+
+.jumbo img{
+    width: 100%;
+}
+
+.card-border{
+    border: 1px solid rgb(163, 163, 163);
+}
+
+.card-border-bottom{
+    border-bottom: 1px solid rgb(163, 163, 163);
+}
+
+.text-link a{
+    color:#0061FE;
+    text-decoration: underline;
+}
+
+.text-link + hr{
+    width: 20%;
+}
+
+#find-partner img, #operations img{
+    width: 100%;
+}
+
+/* Section: FOOTER */
+footer ul{
+    list-style: none;
+}
+
+footer hr{
+    width: 10%;
+}
