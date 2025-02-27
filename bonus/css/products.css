@@ -80,3 +80,27 @@
     text-decoration: underline;
     text-align: center;
 }
+
+.box-testimonials img{
+    width: 100%;
+}
+
+.testimonial-text{
+    padding: 50px;
+}
+
+.testimonianza{
+    font-size: 25px;
+}
+
+.testimonial-text .stories{
+    text-align: left;
+}
+
+.role{
+    color: grey;
+}
+
+.testimonial-text > :last-child{
+    margin-top: -20px;
+}

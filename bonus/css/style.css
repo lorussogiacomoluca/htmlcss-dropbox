@@ -238,6 +238,11 @@ a{
     column-gap: 10px;
 }
 
+.gap-r20{
+    row-gap: 20px;
+}
+
+
 .gap-r40{
     row-gap: 40px;
 }
