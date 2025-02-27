@@ -401,3 +401,7 @@ a:hover:no-button{
     border-left: 1px solid #0061FE;
     border-top: 1px solid #0061FE;
   }
+
+  footer a:hover{
+        color: #0061FE;
+  }
