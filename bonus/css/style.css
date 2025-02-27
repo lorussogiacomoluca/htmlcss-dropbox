@@ -300,7 +300,7 @@ header ul{
     width: 20%;
 }
 
-#find-partner img, #operations img{
+#find-partners img, #operations img{
     width: 100%;
 }
 
@@ -328,6 +328,9 @@ html{
 
 .anchor{
     scroll-margin-top: 100px;
+}
+.anchor-extra{
+    scroll-margin-top: 180px;
 }
 
 a{
